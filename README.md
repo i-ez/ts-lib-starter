@@ -6,7 +6,9 @@
 [![Coveralls](https://img.shields.io/coveralls/alexjoverm/typescript-library-starter.svg)](https://coveralls.io/github/alexjoverm/typescript-library-starter)
 [![Dev Dependencies](https://david-dm.org/alexjoverm/typescript-library-starter/dev-status.svg)](https://david-dm.org/alexjoverm/typescript-library-starter?type=dev)
 
-[typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) 开发包的迭代升级版本。本项目在 typescript-library-starter 的基础上加以修改，更新了项目依赖，使用ESLint替换TS-Lint代码检查方案
+**一个typescript类库项目的开发脚手架。**
+
+本项目是 [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) 脚手架的迭代升级版本。本项目在 typescript-library-starter 的基础上加以修改，更新了项目依赖，使用ESLint替换TS-Lint代码检查方案。
 
 > typescript-library-starter 已经很久没更新了，项目依赖已经老旧，其使用的TS-Lint代码检查方案已经被TS官方放弃。
 
