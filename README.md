@@ -15,7 +15,7 @@
 ### Usage | 使用方法
 
 ```bash
-git clone https://github.com/qiyu99/ts-lib-starter.git YOURFOLDERNAME
+git clone https://github.com/i-ez/ts-lib-starter.git YOURFOLDERNAME
 cd YOURFOLDERNAME
 
 # Run yarn and write your library name when asked. That's all!
